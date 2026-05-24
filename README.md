@@ -29,7 +29,7 @@ El repositorio cuenta con scripts independientes para el testeo de diferentes en
 
 ---
 
-## 🛠️ Core Tecnológico
+## Core Tecnológico
 
 * **Java SE (Standard Edition)**: Lógica principal y manejo de red nativo.
 * **org.json**: Librería ligera para el mapeo y manipulación de estructuras de datos en formato JSON.
