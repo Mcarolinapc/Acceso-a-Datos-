@@ -37,7 +37,13 @@ El repositorio cuenta con scripts independientes para el testeo de diferentes en
 
 ---
 
-## 👥 Autor
+**Nota Técnica sobre Seguridad (API Key):** Para fines puramente académicos y para facilitar la ejecución inmediata del script por parte de terceros, la API Key gratuita de la AEMET se ha dejado *hardcodeada* de forma intencionada en el código fuente (`ApiUV.java`). 
+   
+   *Soy plenamente consciente de que exponer credenciales en repositorios públicos es un anti-patrón de seguridad severo. En un entorno de producción real o arquitecturas comerciales, este token jamás se expondría; se inyectaría de forma segura mediante variables de entorno del sistema operativo o archivos `.properties` excluidos del control de versiones.*
+
+---
+
+## Autor
 
 * **Michelle Carolina Posligua Contreras**
 * **Módulo:** Acceso a Datos
